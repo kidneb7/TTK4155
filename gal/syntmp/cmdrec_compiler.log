@@ -1,0 +1,7 @@
+C:\ispLEVER_Classic2_0\synpbase\bin64\c_vhdl.exe  -osyn  U:\byggern\gal\synwork\adress_decoder_comp.srs  -top  adress_decoder  -prodtype  synplify_pro  -nostructver -dfltencoding sequential -encrypt  -pro  -dmgen  U:\byggern\gal\dm  -lite -ui -fid2 -ram -sharing on -ll 2000 -autosm -ignore_undefined_lib  -lib work U:\byggern\gal\adress_decoder.vhd -loga  U:\byggern\gal\adress_decoder.srr 
+rc:2 success:0
+U:\byggern\gal\synwork\adress_decoder_comp.srs|o|0|0
+U:\byggern\gal\adress_decoder.vhd|i|1536740395|949
+U:\byggern\gal\adress_decoder.srr|o|1536741542|1179
+C:\ispLEVER_Classic2_0\synpbase\bin\c_vhdl.exe|i|1401223898|2046976
+C:\ispLEVER_Classic2_0\synpbase\bin64\c_vhdl.exe|i|1401224104|5533184
